@@ -1,16 +1,37 @@
-# shopee_clone
+# 🛍️ Shopee Clone UI - Flutter
 
-A new Flutter project.
+Shopee Clone UI adalah proyek Flutter yang meniru **tampilan (UI)** dari aplikasi Shopee. Proyek ini hanya berfokus pada **antarmuka pengguna**, tanpa integrasi backend atau fitur interaktif seperti login, keranjang, dan pembayaran.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🎯 Tujuan
 
-A few resources to get you started if this is your first Flutter project:
+- Belajar membuat UI kompleks dengan Flutter
+- Meniru layout e-commerce seperti Shopee
+- Menggunakan widget-widget dasar dan kompleks seperti GridView, ListView, dan BottomNavigationBar
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📷 Preview Tampilan
+
+| Beranda | Kategori | Detail Produk |
+|--------|----------|----------------|
+| ![Home](screenshots/home.png) | ![Category](screenshots/category.png) | ![Product](screenshots/product.png) |
+
+---
+
+## 🛠️ Teknologi
+
+- Flutter 3.x
+- Dart 3.x
+- Tanpa backend
+- Hanya menggunakan data statis / dummy
+
+---
+
+## 📦 Cara Menjalankan
+
+1. Clone repository:
+   ```bash
+   git clone https://github.com/username/shopee_clone_ui_flutter.git
+   cd shopee_clone_ui_flutter
